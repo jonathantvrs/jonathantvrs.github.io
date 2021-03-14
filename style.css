@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+:root {
+  --primary-color: #612f74;
+  --primary-color-light: #9448b1; 
+  --secondary-color: #ff8700;
+  --secondary-color-light: #ffa53f;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--primary-color);
+}
