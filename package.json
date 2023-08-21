@@ -1,12 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "xcode",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Jonathan's personal blog",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  },
+  "author": "Jonathan Tavares <jontvrs@gmail.com>",
   "dependencies": {
     "@fontsource/merriweather": "^5.0.3",
     "@fontsource-variable/montserrat": "^5.0.4",
@@ -28,14 +25,18 @@
   "devDependencies": {
     "prettier": "^2.8.8"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/jonathantvrs/jonathantvrs.github.io",
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "blog",
+    "jonathan tavares",
+    "xcode",
+    "jontvrs"
   ],
   "license": "0BSD",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/jonathantvrs/jonathantvrs.github.io.git"
   },
   "scripts": {
     "build": "gatsby build",
